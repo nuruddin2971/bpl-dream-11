@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="min-h-[60vh] bg-linear-to-r from-purple-500 to bg-purple-300">
+    <div className="min-h-[60vh] bg-linear-to-r from-purple-500 to bg-purple-300 w-11/12 mx-auto">
         Banner
     </div>
   );

@@ -48,5 +48,45 @@
     "bowlingStyle": "Right-arm off break",
     "price": 1350000,
     "playerImg": "https://i.ibb.co/pjvYpqgT/Babar-Azam.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co/pjvYpqgT/Babar-Azam.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co/pjvYpqgT/Babar-Azam.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co/pjvYpqgT/Babar-Azam.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm off break",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co/pjvYpqgT/Babar-Azam.webp"
   }
 ]
